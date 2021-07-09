@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alight659
-- 👀 I’m a student, programmer, game developer and an ethical hacker
+- 👀 I’m a student, programmer, and a game developer
 - 🌱 I’m currently learning Scala and C
 <!---
 - 📫 How to reach me @gmail.com

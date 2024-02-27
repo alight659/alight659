@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alight659
 - 👀 I’m a student, programmer, and a game developer
-- 🌱 I’m currently attending CS50's Introduction to Computer Science by Harvard University
+- 🌱 I recently completed CS50's Introduction to Computer Science by Harvard University
 - 📫 Contact me at aanisali@protonmail.com

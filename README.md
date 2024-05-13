@@ -5,6 +5,6 @@
 - 📫 Contact me at aanisali@proton.me or aanis@clipb.in
 
 ### Projects
-- [ClipBin](https://github.com/alight659/ClipBin), a simple code sharing platform.
-- [antiPhish](https://github.com/alight659/antiPhish), a basic phishing URL detector.
-- [Chase](https://github.com/alight659/Chase), a game I developed for Ludum Dare 50.
+- 📋[ClipBin](https://github.com/alight659/ClipBin), a simple code sharing platform.
+- 🎣[antiPhish](https://github.com/alight659/antiPhish), a basic phishing URL detector.
+- 🚓[Chase](https://github.com/alight659/Chase), a game I developed for Ludum Dare 50.

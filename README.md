@@ -1,7 +1,7 @@
 # Hello, World!
 - 👋 I’m [@alight659](https://alight659.github.io)
 - 👀 I’m a student, programmer, and a game developer
-- 🌱 I am currently developing [ClipBin](https://ClipB.in)
+- 🌱 I am currently developing [ClipBin](https://ClipB.in) and PicoGPT(a gpt written from scratch).
 - 📫 Contact me at aanisali@proton.me or aanis@clipb.in
 
 ### Projects

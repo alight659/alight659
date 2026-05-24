@@ -1,10 +1,3 @@
-# Hello, World!
-- 👋 I’m [@alight659](https://alight659.github.io)
-- 👀 I’m a student, programmer, and a game developer
-- 🌱 I am currently developing [ClipBin](https://ClipB.in) and PicoGPT(a gpt written from scratch).
-- 📫 Contact me at aanisali@proton.me or aanis@clipb.in
+Programmer | AI, Security, Development
 
-### Projects
-- 📋 [ClipBin](https://github.com/alight659/ClipBin), a simple code sharing platform.
-- 🎣 [antiPhish](https://github.com/alight659/antiPhish), a basic phishing URL detector.
-- 🚓 [Chase](https://github.com/alight659/Chase), a game I developed for Ludum Dare 50.
+[@alight659](https://alight659.github.io) | [LinkedIn](https://linkedin.com/in/aanis-ali-shah-657b66170) | [Email](mailto:aanisali@proton.me)
